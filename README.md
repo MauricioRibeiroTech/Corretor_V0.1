@@ -1,7 +1,3 @@
-Aqui está uma sugestão de README completo para o seu repositório GitHub, escrito em português para ser consistente com o código-fonte.
-
------
-
 # Corretor de Gabaritos e Analisador Psicrométrico (TRI)
 
 Este projeto é um dashboard interativo construído com Streamlit que serve a dois propósitos principais:
